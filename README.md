@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jonygaming
+- 👀 I’m interested in Video Games
+- 🌱 I’m currently learning Coding
